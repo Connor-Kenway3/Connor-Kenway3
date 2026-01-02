@@ -1,8 +1,7 @@
 <div align="center">
-
 ### Hi there👋
 
-I’m learning my way through data, systems, and Web3 - with a focus on on-chain analysis, research, and understanding how things break.
+Learning my way through data, systems, and Web3 - with a focus on on-chain analysis, research, and understanding how things break.
 
 Mostly sharing experiments, notes, and small tools as I go.
 
